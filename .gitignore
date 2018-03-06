@@ -1,0 +1,18 @@
+/target/
+
+### Eclipse ###
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.settings/
+
+# Eclipse Core -- Can't Import if ignore
+.project
